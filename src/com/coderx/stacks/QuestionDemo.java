@@ -11,6 +11,7 @@ public class QuestionDemo {
         names.push("Pamudu");
         names.push("Vajith");
         names.push("Pasan");
+        
 
 
 //        Deque<String> reversedNames = reversed(names);
